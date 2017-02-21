@@ -1,0 +1,21 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "basic dating app using express to handle routing",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "body-parser",
+    "path"
+  ],
+  "author": "Cristy Torres",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "path": "^0.12.7"
+  }
+}
